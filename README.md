@@ -2,7 +2,7 @@
 
 A live dashboard that shows how a multi-outlet business is performing right now: revenue, orders, units, prices, best categories and best outlets, refreshed every few seconds and compared with the previous period.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://businessiq-dashboard.streamlit.app/
 
 ![BusinessIQ dashboard](docs/screenshot.png)
 
